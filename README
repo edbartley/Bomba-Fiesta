@@ -2,6 +2,8 @@ This is a game I made in 12 hours using two different game engines/frameworks, l
 LibGDX is a JAVA framework for making games and other apps for Android, Windows, Mac, Linux, browser applet, and others.
 Cocos2D-X is a C++ game engine for making games and other GLES based apps for iOS, Android, bada, and others.
 
+You can play the HTML5/WebGL version (made with LibGDX) here: https://dl.dropbox.com/u/33122639/index.html (Safari not supported)
+
 The code is the Copyright Flowerpot Games LLC 2012
 All Rights Reserved
 
